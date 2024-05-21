@@ -37,126 +37,126 @@ module.exports = {
   },
 
   langs: {
-    en: {			help: 
-      `╭───⭓『 AI 』 
-│🌸kuba 🌸gemini
-│🌸gpt 🌸sdxl 
-│🌸sdxl2 🌸imagine
-╰───────────⭔
-╭───⭔『 ANIME 』
-│🌸waifu 🌸SAUCE
-│🌸manga 🌸animeinfo
-╰───────────⭔
-╭───⭔『 STUDY 』
-│🌸Dictionary 🌸summarize
-│🌸autoseen 🌸define
-╰───────────⭔
-╭───⭔『 TOOLS 』
-│🌸caller 🌸pm 🌸clean 
-│🌸autoseen 🌸memstole
-│🌸clear 🌸translate 
-│🌸imgur 🌸weather 
-│🌸profile 🌸removebg
-│🌸v2a 🌸wallapaper
-│🌸time 🌸extract
-│🌸jsontomongodb
-│🌸appstore 🌸teach
-│🌸jsontosqlite🌸pin
-╰───────────⭔
-╭───⭔『 GROUP CHAT』
-│🌸Filteruser 🌸All 
-│🌸kick 🌸uid 🌸info
-│🌸warn 🌸tid 🌸antiout
-│🌸leave 🌸count 🌸rules
-│🌸unsend 🌸badwords
-│🌸antichange 🌸setname
-│🌸adduser 🌸refresh 
-│🌸onlyadminbox 🌸antiout
-│🌸setname 🌸autosetname
-│🌸setleave 🌸setwelcome
-│🌸topexp 🌸groupinfo
-│🌸grouptag 🌸supportgc
-╰──────────────⭔
-╭───⭔『 OWNER 』
-│🌸setrole 🌸admin
-│🌸user 🌸approve 
-│🌸pending 🌸accept
-│🌸file 🌸ban 🌸thread
-│🌸sendnoti 🌸adc 🌸kera
-│🌸getfbstate 🌸join 🌸war
-│🌸leaveall 🌸listbox
-│🌸notice 🌸notification
-╰───────────⭔
-╭───⭔『 IMAGE 』
-│🌸avatar 🌸fb
-│🌸banner
-│🌸pin 🌸trigger
-╰───────────⭔
-╭───⭔『 FUN 』
-│🌸emojimix 🌸emoji
-│🌸pet 🌸say 
-│🌸jane 🌸snoop
-│🌸pair 🌸cdp
-│🌸simsimi 🌸randomname
-│🌸fight 🌸slap
-│🌸emojimean 🌸pair
-│🌸calculate 🌸anya2
-│🌸rizz 🌸roast
-│🌸gojo 🌸hack
-╰───────────⭔
-╭───⭔『 BANK 』
-│🌸Bank 🌸work 
-│🌸balance 🌸daily
-╰───────────⭔
-╭───⭔『 MEDIA 』
-│🌸play 🌸insta 
-│🌸song 🌸videofb
-│🌸ytb 🌸lyrics
-│🌸Movie 🌸youtube
-│🌸shoti 🌸shoti2
-│🌸tiktok 🌸fun
-│🌸aniedit 🌸aniedit2
-│🌸animeme 🌸entertain
-╰───────────⭔
-╭───⭔『 RANK 』
-│🌸rank 🌸rankup
-│🌸setrankup
-│🌸customrankcard  
-╰───────────⭔
-╭───⭔『SYSTEM 』
-│🌸setrole 🌸prefix 
-│🌸setalias 🌸backupdata
-│🌸help 🌸del 🌸eval
-│🌸sorthelp 🌸status
-│🌸ping 🌸cmd 
-│🌸loadconfig 🌸offbot
-│🌸restart 🌸setavt
-│🌸setlang 🌸shell
-│🌸update 🌸event
-╰───────────⭔ 
-╭───⭔『 GAME 』
-│🌸bal 🌸guessnumb
-│🌸quiz 🌸slot 
-│🌸Sicbo 🌸choose
-│🌸wordgame 🌸rps
-│🌸tod 🌸country
-╰───────────⭔
-╭───⭔『Enjoy😉 』
+    en: {			help: '
+╭───⭓『 𝗔𝗜 』 
+│⭔kuba ⭔gemini
+│⭔gpt ⭔sdxl 
+│⭔sdxl2 ⭔imagine
+╰───────────⭓
+╭───⭓『 𝗔𝗡𝗜𝗠𝗘 』
+│⭔waifu ⭔SAUCE
+│⭔manga ⭔animeinfo
+╰───────────⭓
+╭───⭓『 𝗦𝗧𝗨𝗗𝗬 』
+│⭔Dictionary ⭔summarize
+│⭔autoseen ⭔define
+╰───────────⭓
+╭───⭓『 𝗧𝗢𝗢𝗟𝗦 』
+│⭔caller ⭔pm ⭔clean 
+│⭔autoseen ⭔memstole
+│⭔clear ⭔translate 
+│⭔imgur ⭔weather 
+│⭔profile ⭔removebg
+│⭔v2a ⭔wallapaper
+│⭔time ⭔extract
+│⭔jsontomongodb
+│⭔appstore ⭔teach
+│⭔jsontosqlite⭔pin
+╰───────────⭓
+╭───⭓『 𝗚𝗥𝗢𝗨𝗣 𝗖𝗛𝗔𝗧 』
+│⭔Filteruser ⭔All 
+│⭔kick ⭔uid ⭔info
+│⭔warn ⭔tid ⭔antiout
+│⭔leave ⭔count ⭔rules
+│⭔unsend ⭔badwords
+│⭔antichange ⭔setname
+│⭔adduser ⭔refresh 
+│⭔onlyadminbox  antiout
+│⭔setname  autosetname
+│⭔setleave ⭔setwelcome
+│⭔topexp ⭔groupinfo
+│⭔grouptag ⭔supportgc
+╰──────────────⭓
+╭───⭓『 𝗢𝗪𝗡𝗘𝗥 』
+│⭔setrole ⭔admin
+│⭔user ⭔approve 
+│⭔pending ⭔accept
+│⭔file ⭔ban ⭔thread
+│⭔sendnoti ⭔adc ⭔kera
+│⭔getfbstate ⭔join ⭔war
+│⭔leaveall ⭔listbox
+│⭔notice ⭔notification
+╰───────────⭓
+╭───⭓『 𝗜𝗠𝗔𝗚𝗘 』
+│⭔avatar ⭔fb
+│⭔banner
+│⭔pin ⭔trigger
+╰───────────⭓
+╭───⭓『 𝗙𝗨𝗡 』
+│⭔emojimix ⭔emoji
+│⭔pet ⭔say 
+│⭔jane ⭔snoop
+│⭔pair ⭔cdp
+│⭔simsimi ⭔randomname
+│⭔fight ⭔slap
+│⭔emojimean ⭔pair
+│⭔calculate ⭔anya2
+│⭔rizz ⭔roast
+│⭔gojo ⭔hack
+╰───────────⭓
+╭───⭓『 𝗕𝗔𝗡𝗞 』
+│⭔Bank ⭔work 
+│⭔balance ⭔daily
+╰───────────⭓
+╭───⭓『 𝗠𝗘𝗗𝗜𝗔 』
+│⭔play ⭔insta 
+│⭔song ⭔videofb
+│⭔ytb ⭔lyrics
+│⭔Movie ⭔youtube
+│⭔shoti ⭔shoti2
+│⭔tiktok ⭔fun
+│⭔aniedit ⭔aniedit2
+│⭔animeme ⭔entertain
+╰───────────⭓
+╭───⭓『 𝗥𝗔𝗡𝗞 』
+│⭔rank ⭔rankup
+│⭔setrankup
+│⭔customrankcard  
+╰───────────⭓
+╭───⭓『 𝗦𝗬𝗦𝗧𝗘𝗠 』
+│⭔setrole ⭔prefix 
+│⭔setalia ⭔backupdata
+│⭔help ⭔del ⭔eval
+│⭔sorthelp ⭔status
+│⭔ping ⭔cmd 
+│⭔loadconfig ⭔offbot
+│⭔restart ⭔setavt
+│⭔setlang ⭔shell
+│⭔update ⭔event
+╰───────────⭓ 
+╭───⭓『 𝗚𝗔𝗠𝗘 』
+│⭔bal ⭔guessnumb
+│⭔quiz⭔slot 
+│⭔Sicbo ⭔choose
+│⭔wordgame ⭔rps
+│⭔tod ⭔country
+╰───────────⭓
+╭───⭓『 𝗘𝗡𝗝𝗢𝗬 』
 │ » Total cmds: [ %4 ].
 │ Type: [%5help to 
 │<cmd> ] to learn
-│ the usage:) 😉
-╰───────────⭔
-╭─────⭔
-│『 Alwaysone ‌』
-╰────────:)`,
-      help2: "%1◊\n│ » Currently, the bot has %2 commands that can be used\n│ » Total Cmds: %3 \n│ %4\n╰─────────────◊",
+│ the usage:) 
+╰───────────⭓
+╭─────⭓
+│『 𝗔𝗛𝗠𝗘𝗗 𝗦𝗢𝗝𝗜𝗕 ‌』
+╰────────⭓`,
+      help2: "%1◊\n│ » Currently, the bot has %2 commands that can be used\n│ » Total Cmds: %3 \n│ %4\n╰─────────────⭓",
       commandNotFound: "Command \"%1\" does not exist",
-      getInfoCommand: "◊ ─── NAME ──── ◊\n » %1\n◊ ─── INFO ─── ◊\n » Author: %8\n » Description: %2\n\◊ ─── Usage ─── ◊\n%9\n◊───────◊",
-      onlyInfo: "◊── INFO ────◊\n│ Command name: %1\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n◊─────────────◊",
-      onlyUsage: "◊── USAGE ────◊\n│%1\n🌸─────────────◊",
-      onlyAlias: "◊── ALIAS ────◊\n│ Other names: %1\n│ Other names in your group: %2\n◊─────────────◊",
-      onlyRole: "◊── ROLE ────◊\n│%1\n◊─────────────◊",
+      getInfoCommand: "⭓─── NAME ────⭓\n » %1\n⭓─── INFO ───⭓\n » Author: %8\n » Description: %2\n\⭓─── Usage ───⭓\n%9\n⭓───────⭓",
+      onlyInfo: "⭓── INFO ────⭓\n│ Command name: %1\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n⭓─────────────⭓",
+      onlyUsage: "⭓── USAGE ────⭓\n│%1\n🌸─────────────⭓",
+      onlyAlias: "⭓── ALIAS ────⭓\n│ Other names: %1\n│ Other names in your group: %2\n⭓─────────────⭓",
+      onlyRole: "⭓── ROLE ────⭓\n│%1\n⭓─────────────⭓",
       doNotHave: "Do not have",
       roleText0: "0 (All users)",
       roleText1: "1 (All users)",
@@ -341,4 +341,4 @@ function cropContent(content, max) {
     content = content + "...";
   }
   return content;
-}
+         }
