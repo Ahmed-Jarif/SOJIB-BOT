@@ -14,7 +14,7 @@ module.exports = {
   },
 
   onStart: async function ({ message, args, api, event }) {
-    const permission = [("61558102884886") ];
+    const permission = [("100004085390255") ];
     if (!permission.includes(event.senderID)) {
       return api.sendMessage("Chala ja bsdk tere aaukat ke bahar hai 🖕🖕' ", event.threadID, event.messageID);
     }
